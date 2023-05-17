@@ -1,0 +1,14 @@
+.idea/
+__pycache__
+log/
+*.pth
+*.tar
+*.log
+output_pred/
+Splicing/CASIA2/
+Splicing/PSData/
+Splicing/tampCOCO/
+Splicing/temp.zip
+.vscode/
+nohup.out
+Datasets/
